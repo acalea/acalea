@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @acalea
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning about how computers work
